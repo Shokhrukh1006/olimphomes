@@ -241,6 +241,8 @@ a { text-decoration: none; color: inherit; }
 .footer__inner { display: flex; justify-content: space-between; align-items: center; }
 .footer .logo__text { color: rgba(255,255,255,.45); font-size: 18px; }
 .footer__copy { font-size: 13px; color: rgba(255,255,255,.25); }
+.footer__privacy { font-size: 13px; color: rgba(255,255,255,.25); text-decoration: underline; }
+.footer__privacy:hover { color: #C4A882; }
 
 /* ===== SCROLL ANIMATIONS ===== */
 .fade-up {
